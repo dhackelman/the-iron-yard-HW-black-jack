@@ -1,2 +1,2 @@
-# the-iron-yard-HW-black-jack
-fixing a broken black-jack game
+# fee-blackjack
+An incomplete game of blackjack

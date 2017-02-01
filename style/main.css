@@ -1,0 +1,39 @@
+body {
+  font-size: 35px;
+  line-height: 1.6;
+}
+
+figure, aside {
+  display: flex;
+  justify-content: center;
+  margin: 25px auto;
+  overflow: hidden;
+  width: 80%;
+}
+
+.card {
+    border: 5px solid black;
+    border-radius: 10px;
+    float: left;
+    justify-content: center;
+    margin: 5%;
+    min-height: 200px;
+    padding: 20px 5px;
+    text-align: center;
+    width: 40%;
+}
+
+button {
+  margin: 0 auto;
+  padding: 25px;
+  width: 40%;
+}
+
+.game-result {
+  color: black;
+  font-size: 20px;
+  min-height: 50px;
+  text-align: center;
+  width: 40%
+
+}
